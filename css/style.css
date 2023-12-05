@@ -395,4 +395,101 @@ line-height: normal;
     padding-right: 15px;
     margin: 0 auto;
     background: #FFF;
+    margin-top: 225px;
 }
+
+.card-list {
+    margin-left: 135px;
+    display: flex;
+    gap: 30px;
+}
+
+.card-item {
+width: 270px;
+border-radius: 3px;
+background: #FFF;
+box-shadow: 0px 8px 34px 0px rgba(0, 0, 0, 0.06);
+}
+
+.main-card-div {
+padding: 10px 10px;
+}
+
+.card-title {
+    color: #1C2B38;
+text-shadow: 0px 5px 13px rgba(255, 255, 255, 0.40);
+font-family: Volkhov;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; 
+margin-top: 12px;
+padding-left: 10px;
+}
+
+.card-desk {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.card-main-text {
+    color: var(--dark-80, #495560);
+    font-family: Mulish;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.card-line {
+    width: 270px;
+height: 1px;
+background: var(--dark-10-border, #E8EAEB);
+margin-left: -10px;
+margin-top: 20px;
+}
+
+.value-stars {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.value-stars {
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: 4px;
+}
+
+.main-span {
+color: var(--dark-60, #778088);
+font-family: Mulish;
+font-size: 12px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.value-text {
+    color: #7BBCB0;
+text-align: right;
+text-shadow: 0px 5px 13px rgba(255, 255, 255, 0.40);
+font-family: Volkhov;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 26px; 
+}
+
+.value-desk {
+color: var(--dark-60, #778088);
+font-family: Mulish;
+font-size: 12px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
