@@ -493,3 +493,36 @@ font-weight: 600;
 line-height: normal;
 }
 
+/* Trending */
+
+.trend {
+    width: 1440px;
+    height: 590px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+    margin-top: 110px;
+    background-image: url(../images/Rectangle\ 159.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+.img1 {
+    position: absolute;
+left: 206px;
+top: 83px;
+}
+
+.img2 {
+  position: absolute;
+  left: 130px;
+  top: 83px;
+}
+
+.img3 {
+    position: absolute;
+    left: 126px;
+    top: 83px;
+}
