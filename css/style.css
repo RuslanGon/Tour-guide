@@ -386,3 +386,13 @@ line-height: normal;
     font-weight: 700;
     line-height: normal;
 }
+
+/*main-card*/
+
+.main-card {
+    width: 1440px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+    background: #FFF;
+}
