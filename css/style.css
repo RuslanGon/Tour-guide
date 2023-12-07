@@ -628,16 +628,20 @@ padding: 14px 60px;
     position: relative;
 }
 
+.smart-images1 {
+position: absolute;
+top: 130px;
+left: 350px;
+}
 
-
-
-
-
-
-
+.smart-images2 {
+    position: absolute;
+    top: 80px;
+    left: 150px;
+    }
 
 .smart-main {
-    margin-left: 450px;
+    margin-left: 705px;
 }
 
 .smart-title {
