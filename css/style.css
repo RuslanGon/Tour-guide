@@ -632,16 +632,24 @@ padding: 14px 60px;
 position: absolute;
 top: 130px;
 left: 350px;
+border-radius: 20px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+
 }
 
 .smart-images2 {
     position: absolute;
     top: 80px;
     left: 150px;
+    border-radius: 20px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+
     }
 
 .smart-main {
-    margin-left: 705px;
+    margin-left: 725px;
 }
 
 .smart-title {
