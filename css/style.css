@@ -610,3 +610,68 @@ background: #FFDA32;
 box-shadow: 0px 8px 20px 0px rgba(255, 218, 50, 0.50);
 padding: 14px 60px;
 }
+
+/* pikcher */
+
+.pikcher {
+    width: 1170px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+    margin-top: 74px;
+}
+
+.pikcher-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pikcher-title {
+    color: #1C2B38;
+text-shadow: 0px 5px 13px rgba(255, 255, 255, 0.40);
+font-family: Volkhov;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.pikcher-text {
+    color: var(--dark-60, #778088);
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 25px; 
+width: 538px;
+margin-top: 19px;
+}
+
+.pikcher-link {
+    color: var(--White, #FFF);
+text-align: center;
+font-family: Mulish;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 18px;
+text-transform: capitalize;
+padding: 18px 30px;
+border-radius: 3px;
+background: var(--dark-80, #495560);
+}
+
+.pikcher-list{
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px 30px;
+}
+
+.pikcher-div1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 71px;
+}
