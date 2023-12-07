@@ -611,6 +611,91 @@ box-shadow: 0px 8px 20px 0px rgba(255, 218, 50, 0.50);
 padding: 14px 60px;
 }
 
+/* smart */
+.smart {
+    width: 1440px;
+    height: 720px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+    margin-top: 110px;
+   background-image: url(../images/2133.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+.smart-main {
+    margin-left: 450px;
+}
+
+.smart-title {
+    color: var(--White, #FFF);
+text-shadow: 0px 5px 13px rgba(255, 255, 255, 0.40);
+font-family: Volkhov;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 6px;
+}
+
+.smart-span {
+    color: var(--White, #FFF);
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.smart-texy {
+    color: var(--White, #FFF);
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 25px;
+margin-bottom: 40px;
+margin-top: 22px;
+width: 515px;
+}
+
+.smart-link {
+    display: flex;
+    gap: 10px;
+}
+
+.smart-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-radius: 40px;
+    padding: 29px 52px;
+background: #FFDA32;
+box-shadow: 0px 8px 20px 0px rgba(255, 218, 50, 0.50);
+}
+
+.smart-desk {
+    color: var(--Main-Dark, #1C2B38);
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
 /* pikcher */
 
 .pikcher {
@@ -674,4 +759,44 @@ background: var(--dark-80, #495560);
     justify-content: space-between;
     align-items: center;
     margin-top: 71px;
+}
+
+.pic-img-list {
+    margin-top: 59px;
+    display: flex;
+    gap: 30px;
+}
+
+.pic-img-item {
+    border-radius: 3px;
+background: #FFF;
+box-shadow: 0px 8px 34px 0px rgba(0, 0, 0, 0.06);
+}
+.pic-img-div {
+    display: flex;
+    gap: 6px;
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.pic-img-span {
+    color: var(--dark-60, #778088);
+font-family: Mulish;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 30px; 
+}
+
+.pic-img-yitle {
+    color: #1C2B38;
+text-shadow: 0px 5px 13px rgba(255, 255, 255, 0.40);
+font-family: Volkhov;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; 
+padding-bottom: 15px;
+margin-left: 20px;
 }
