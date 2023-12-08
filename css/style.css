@@ -819,3 +819,21 @@ line-height: 26px;
 padding-bottom: 15px;
 margin-left: 20px;
 }
+
+/* footer-and */
+
+.footer-and {
+    width: 1440px;
+    height: 60px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+    display: flex;
+    background-color: #13253F;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer-and-text {
+    
+}
