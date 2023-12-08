@@ -828,12 +828,28 @@ margin-left: 20px;
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
-    display: flex;
     background-color: #13253F;
     align-items: center;
-    justify-content: space-around;
+}
+
+.footer-main {
+    margin-left: 135px;
+    margin-left: 135px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .footer-and-text {
-    
+    color: rgba(255, 255, 255, 0.60);
+font-family: Mulish;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 20px;
+}
+
+.footer-and-img {
+    margin-top: 10px;
+   margin-right: 135px;
 }
