@@ -870,7 +870,6 @@ margin-top: 20px;
   padding-top: 80px;
     margin-left: 135px;
    padding-bottom: 116px;
-   
 }
 
 .footer-text {
@@ -899,17 +898,25 @@ font-weight: 600;
 line-height: normal;
 padding-left: 43px;
 position: relative;
-
 }
 
 .flag {
-   position: absolute;
+position: absolute;
+top: 5477px;
+left: 390px;
+}
+
+.strrelka1 {
+position: absolute;
+top: 5477px;
+left: 600px;
 }
 
 .strrelka {
-
+position: absolute;
+top: 5567px;
+left: 600px;
 }
-
 .footer-input:focus {
     
 }
